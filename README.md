@@ -19,4 +19,4 @@ https://jojo.io/
 
 <br>
 
-Like what I'm building? Consider supporting me by [Sponsoring my work](https://github.com/sponsors/jojobyte) or sharing with friends and colleagues.
+👍👏 Like / Love 💗🥰  what I'm building? Consider supporting me by [💸 Sponsoring my work 💰](https://github.com/sponsors/jojobyte) or sharing with friends and colleagues.
