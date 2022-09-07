@@ -10,4 +10,4 @@ https://jojo.io/
 ## Follow/Subscribe & Watch me code:
 
 - [twitch.tv/jojobyte](https://twitch.tv/jojobyte)
-- https://youtu.be/zpYuCqkEDQE?t=236
+- [youtu.be/zpYuCqkEDQE](https://youtu.be/zpYuCqkEDQE?t=236)
