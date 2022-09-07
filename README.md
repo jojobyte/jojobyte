@@ -24,7 +24,7 @@ Consider supporting me by [💸 Sponsoring my work on Github 💸](https://githu
 
 Can't spare any 💰? 👍 Liking, ⭐ Star-ing, 🙏 following & 🔔 subscribing helps a ton 🏋!
 
-## Follow / Subscribe & Watch me code
+## Follow / Subscribe & Watch me build stuff
 
 - [github.com/jojobyte](https://github.com/jojobyte)
 - [twitch.tv/jojobyte](https://twitch.tv/jojobyte)
