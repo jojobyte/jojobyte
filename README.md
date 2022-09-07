@@ -21,8 +21,6 @@ https://jojo.io/
 
 👍👏 Like / Love 💗🥰  what I'm building? Consider supporting me by [💸 Sponsoring my work on Github 💰](https://github.com/sponsors/jojobyte) or sharing with friends and colleagues.
 
-<br>
-
 ### Sponsoring Options
 - https://github.com/sponsors/jojobyte
 - https://ko-fi.com/jojobyte
