@@ -7,22 +7,27 @@
 ## Straight to the source
 https://jojo.io/
 
-## Follow / Subscribe & Watch me code
-
-- [twitch.tv/jojobyte](https://twitch.tv/jojobyte)
-- [youtu.be/zpYuCqkEDQE](https://youtu.be/zpYuCqkEDQE?t=236)
-
 ## Checkout some repos
 - [beepboopbangbang/githoard](https://github.com/beepboopbangbang/githoard)
 - [jojobyte/obs-witchcraft](https://github.com/jojobyte/obs-witchcraft)
 - [jojobyte/traefikjam](https://github.com/jojobyte/traefikjam)
 
-<br>
+### 👍👏💗🥰  what I'm building?
 
-👍👏 Like / Love 💗🥰  what I'm building? Consider supporting me by [💸 Sponsoring my work on Github 💰](https://github.com/sponsors/jojobyte) or sharing with friends and colleagues.
+Consider supporting me by [💸 Sponsoring my work on Github 💸](https://github.com/sponsors/jojobyte) or sharing with friends and colleagues.
 
 ### Sponsoring Options
 - https://github.com/sponsors/jojobyte
 - https://ko-fi.com/jojobyte
 - https://liberapay.com/jojobyte
 - https://jojobyte.locals.com/
+
+Can't spare any 💰? 👍 Liking, ⭐ Star-ing, 🙏 following & 🔔 subscribing helps a ton 🏋!
+
+## Follow / Subscribe & Watch me code
+
+- [github.com/jojobyte](https://github.com/jojobyte)
+- [twitch.tv/jojobyte](https://twitch.tv/jojobyte)
+- [youtu.be/zpYuCqkEDQE](https://youtu.be/zpYuCqkEDQE?t=236)
+
+## 🙏
