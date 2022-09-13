@@ -22,7 +22,9 @@ Consider supporting me by [💸 Sponsoring my work on Github 💸](https://githu
 - https://liberapay.com/jojobyte
 - https://jojobyte.locals.com/
 
-Can't spare any 💰? 👍 Liking 🫶, ⭐ Star-ing 🌠, 😵‍💫 following 🫡 & 🔔 subscribing 📡 helps a ton 🏋!
+**Can't spare any 💰?**
+
+👍 Liking 🫶, ⭐ Star-ing 🌠, 😵‍💫 following 🫡 & 🔔 subscribing 📡 helps a ton 🏋!
 
 ## Follow / Subscribe & Watch me build stuff
 
