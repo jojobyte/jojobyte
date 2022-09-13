@@ -4,8 +4,8 @@
   </a>
 </center>
 
-## Straight to the source
-https://jojo.io/
+## Straight to the source... code
+It appears you've gone straight to the source code, but if you want directly from my little piece of the interweb checkout https://jojo.io/
 
 ## Checkout some repos
 - [beepboopbangbang/githoard](https://github.com/beepboopbangbang/githoard)
