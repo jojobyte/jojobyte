@@ -1,6 +1,6 @@
 <center>
   <a href="https://jojo.io/" target="_blank" title="jojobyte - jojo.io">
-    <img src="./poster-thin.png" alt="jojobyte - https://jojo.io">
+    <img src="./brand.png" alt="jojobyte - https://jojo.io">
   </a>
 </center>
 
@@ -22,7 +22,7 @@ Consider supporting me by [💸 Sponsoring my work on Github 💸](https://githu
 - https://liberapay.com/jojobyte
 - https://jojobyte.locals.com/
 
-Can't spare any 💰? 👍 Liking, ⭐ Star-ing, 🙏 following & 🔔 subscribing helps a ton 🏋!
+Can't spare any 💰? 👍 Liking 🫶, ⭐ Star-ing 🌠, 😵‍💫 following 🫡 & 🔔 subscribing 📡 helps a ton 🏋!
 
 ## Follow / Subscribe & Watch me build stuff
 
@@ -30,4 +30,4 @@ Can't spare any 💰? 👍 Liking, ⭐ Star-ing, 🙏 following & 🔔 subscribi
 - [twitch.tv/jojobyte](https://twitch.tv/jojobyte)
 - [youtu.be/zpYuCqkEDQE](https://youtu.be/zpYuCqkEDQE?t=236)
 
-## 🙏
+## 🙏 Thanks! 🙏
