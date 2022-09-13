@@ -12,7 +12,7 @@ https://jojo.io/
 - [jojobyte/obs-witchcraft](https://github.com/jojobyte/obs-witchcraft)
 - [jojobyte/traefikjam](https://github.com/jojobyte/traefikjam)
 
-### 👍👏💗🥰  what I'm building?
+### 👍💗 Like what I'm building? 👏🥰
 
 Consider supporting me by [💸 Sponsoring my work on Github 💸](https://github.com/sponsors/jojobyte) or sharing with friends and colleagues.
 
