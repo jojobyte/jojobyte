@@ -30,6 +30,6 @@ Consider supporting me by [💸 Sponsoring my work on Github 💸](https://githu
 
 - [github.com/jojobyte](https://github.com/jojobyte)
 - [twitch.tv/jojobyte](https://twitch.tv/jojobyte)
-- [youtu.be/zpYuCqkEDQE](https://youtu.be/zpYuCqkEDQE?t=236)
+- [youtube.com/@jojobyte](https://youtube.com/@jojobyte)
 
 ## 🙏 Thanks! 🙏
