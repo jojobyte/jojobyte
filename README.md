@@ -8,6 +8,7 @@
 It appears you've gone straight to the source code, but if you want directly from my little piece of the interweb checkout https://jojo.io/
 
 ## Checkout some repos
+- [beepboopbangbang/hoard.js](https://github.com/beepboopbangbang/hoard.js)
 - [beepboopbangbang/githoard](https://github.com/beepboopbangbang/githoard)
 - [jojobyte/obs-witchcraft](https://github.com/jojobyte/obs-witchcraft)
 - [jojobyte/traefikjam](https://github.com/jojobyte/traefikjam)
